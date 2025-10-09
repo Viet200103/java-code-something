@@ -1,0 +1,3 @@
+ST1,1,Sting,CT LMN,10-8-2023,10-8-2023,0
+PT1,0,Phòng tom chiên,CT ABC,10-11-2023,10-11-2023,20
+NS1,1,Nước Suối Aqua,Pesi,1-8-2023,1-8-2023,50
